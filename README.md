@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I'm **Uncharted1804** — a technologist, researcher, and systems builder with a passion for creating **AI-powered solutions that scale**.
+Hey, I'm Shaurya Mittal Nair — a technologist, researcher, and systems builder with a passion for creating **AI-powered solutions that scale**.
 
  I specialize in **Machine Learning** and **Computer Vision**, with deep experience in:
 - **Drone architecture & control systems**
